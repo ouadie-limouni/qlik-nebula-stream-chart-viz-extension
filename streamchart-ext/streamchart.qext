@@ -1,0 +1,12 @@
+{
+  "name": "streamchart",
+  "version": "0.1.0",
+  "description": "",
+  "author": {
+    "name": "Ouadie",
+    "email": "oim@qlik.com"
+  },
+  "icon": "extension",
+  "type": "visualization",
+  "supernova": true
+}
